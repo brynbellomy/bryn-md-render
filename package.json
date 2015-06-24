@@ -4,7 +4,7 @@
 	"description": "Renders markdown in a way that meets exactly 100% of my criteria",
   "typescript": {
     "definition": "bryn-md-render.d.ts"
-  }
+  },
 	"main": "index.js",
   "bin": {
     "bryn-markdown": "bin/bryn-markdown"
